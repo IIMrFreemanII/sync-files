@@ -4,7 +4,7 @@ const path = require('path');
 
 const srcFolder = '/Users/ndiahovets/Important Knowledge'; // Source folder
 const destFolders = [
-    '/Volumes/KINGSTON/Important Knowledge',
+    // '/Volumes/KINGSTON/Important Knowledge',
     '/Users/ndiahovets/Library/CloudStorage/OneDrive-Personal/Important Knowledge'
 ]; // Destination folders
 
